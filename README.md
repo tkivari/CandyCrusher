@@ -2,7 +2,7 @@ CandyCrusher
 ============
 
 This extension for Google Chrome provides unlimited lives in Candy Crush when playing on Facebook.
-Provided for educational purposes only.
+Provided for educational purposes only.  Tested and working as of April 29, 2013
 
 No messing around with your timezone or anything!  :)
 
