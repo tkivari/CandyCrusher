@@ -1,0 +1,15 @@
+{
+    "name": "CandyCrusher",
+    "version": "0.1",
+    "manifest_version": 2,
+    "description": "Unlimited lives for Candy Crush on Facebook :)",
+    "content_scripts": [
+        {
+            "matches": ["https://candycrush.king.com/*"],
+            "run_at": "document_idle",
+            "js": ["inject.js"],
+            "all_frames": true
+        }
+    ]
+
+}
